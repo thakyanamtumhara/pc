@@ -23,4 +23,4 @@ let tbl=[{
 },
 {
   "Biowash Rneck":190,"Non Bio Rneck":135,"Polo":215,"Oversize 210gsm":240,"Varsity Jacket":380,"Oversize 180gsm":200,"Hoodie":330,"Sweatshirt":265,"Kids Rneck":140
-},"moq":10]
+},{"moq":10}]
