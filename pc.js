@@ -16,4 +16,16 @@ let tbl=[{
 {
   "Biowash Rneck":195,"Non Bio Rneck":135,"Polo":215,"Oversize 210gsm":240,"Varsity Jacket":380,"Oversize 180gsm":200,"Hoodie":330,"Sweatshirt":265,"Kids Rneck":140
 },{"moq":10},{"Biowash Rneck":0.2,"Non Bio Rneck":0.2,"Polo":0.25,"Oversize 210gsm": 0.26,"Varsity Jacket": 0.55,"Oversize 180gsm": 0.25,"Hoodie":0.55,"Sweatshirt":0.45,"Kids Rneck":0.15},
+{
+      "Biowash Rneck":"2PACX-1vSdc_tWM9bC61Z0cPGsqFKaEtzAZDIGVKXZH5FHqxLxxl2fRtM5cDFwGKJTj_-uZnykFhr2-6Hg-Rg-",
+      "Non Bio Rneck":"2PACX-1vT2WDA3SBxmuiRG5BxVZfJVYZUXoCBUQDoBpI1wHBP2rEjeeCbX17kT0WT_eTBe9fyCtrQaBcQHT0jM",
+      "Polo":"2PACX-1vToEyiwg_Ur1kJtf9UTG-qr9k-f6tJ4y7Ge6UilVp4CT-dPr-TlR_fBkesI156S0bmAfPVABp5-ucw0",
+      "Oversize 210gsm":"2PACX-1vQQScR59YoXFbTZs3uPfbmA_tZigWJwX0ualiBj-oj-uGnDOVNZEyMG8bX7-xph_AujOXlZvWIShTYm",
+      "Varsity Jacket":"2PACX-1vTBKPy4YCya8ylooJ3YIO1DftYq9H-3QgQOtYlPW08ks6LUh2o0nP0gVkwgjnNVT9Me0apvgHcqZApm",
+      "Oversize 180gsm":"2PACX-1vTPsKb6S92yeKB0XJF-XE3HECF6hppHh66tMEaQ6NqGfxqm3yLmavmTiVs8APsfFM_oW8Xm8HHmdoof",
+      "Hoodie":"2PACX-1vROjq_7Viet6j_2es4inKXxcr65L-O1c764ysPAtDydUXEQyAMrLmJ145hicptcMJbr7Q6tWlYfjHpZ",
+      "Sweatshirt":"2PACX-1vT0butJdrvR6dxAExbY7k1yaXR3sa4BqvndRSoEdgWcQAqKa5Qz7o3o7dohJo-APTVUVSIDEgMrNAf-",
+      "Kids Rneck":"2PACX-1vTDhXfDhXY-uZIvaJlIMaIjrDC6DRWs3ONhcGoCYowC00bqUsokUQ9vCWbjmojDWG4HOW4I4JqCybov",
+      "sublim":"2PACX-1vTxN-5uLNqJL-dzu1L4PlkYqfXw3g1DGRL05YjKItTpTtBnIt0J6nNxO3gxIw7yNsgKhMQ7DmDhzVhX"
+}
 ]
