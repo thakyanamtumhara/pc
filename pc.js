@@ -14,6 +14,6 @@ let tbl=[{
   "Biowash Rneck":["Bio","Biowash Rneck, 180gsm, 100% Cotton Supercombed"],"Non Bio Rneck":["NBio","Non Bio Rneck, 180gsm, PC Cotton"],"Polo":["Polo","Polo, 220gsm, PC Cotton"],"Oversize 210gsm":["OS210","Oversized, 210gsm, Loopknit 100% Cotton Supercombed"],"Varsity Jacket":["Varsity","Varsity Jacket, 310gsm, PC Cotton Brushed Loopknit"],"Oversize 180gsm":["OS180","Oversized, 180gsm, 100% Cotton Supercombed"],"Hoodie":["Hood","Non-zipper Hoodie, 310gsm, PC Cotton Brushed Loopknit"],"Sweatshirt":["Sweat","Sweatshirt, 310gsm, PC Cotton Brushed Loopknit"],"Kids Rneck":["Kids","Biowash Kids Rneck, 180gsm, 100% Cotton Supercombed"]
 },
 {
-  "Biowash Rneck":190,"Non Bio Rneck":135,"Polo":215,"Oversize 210gsm":240,"Varsity Jacket":380,"Oversize 180gsm":200,"Hoodie":330,"Sweatshirt":265,"Kids Rneck":140
+  "Biowash Rneck":195,"Non Bio Rneck":135,"Polo":215,"Oversize 210gsm":240,"Varsity Jacket":380,"Oversize 180gsm":200,"Hoodie":330,"Sweatshirt":265,"Kids Rneck":140
 },{"moq":10},{"Biowash Rneck":0.2,"Non Bio Rneck":0.2,"Polo":0.25,"Oversize 210gsm": 0.26,"Varsity Jacket": 0.55,"Oversize 180gsm": 0.25,"Hoodie":0.55,"Sweatshirt":0.45,"Kids Rneck":0.15},
 ]
