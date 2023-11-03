@@ -26,6 +26,7 @@ let tbl=[{
       "Hoodie":"2PACX-1vROjq_7Viet6j_2es4inKXxcr65L-O1c764ysPAtDydUXEQyAMrLmJ145hicptcMJbr7Q6tWlYfjHpZ",
       "Sweatshirt":"2PACX-1vT0butJdrvR6dxAExbY7k1yaXR3sa4BqvndRSoEdgWcQAqKa5Qz7o3o7dohJo-APTVUVSIDEgMrNAf-",
       "Kids Rneck":"2PACX-1vTDhXfDhXY-uZIvaJlIMaIjrDC6DRWs3ONhcGoCYowC00bqUsokUQ9vCWbjmojDWG4HOW4I4JqCybov",
-      "sublim":"2PACX-1vTxN-5uLNqJL-dzu1L4PlkYqfXw3g1DGRL05YjKItTpTtBnIt0J6nNxO3gxIw7yNsgKhMQ7DmDhzVhX"
+      "sublim":"2PACX-1vTxN-5uLNqJL-dzu1L4PlkYqfXw3g1DGRL05YjKItTpTtBnIt0J6nNxO3gxIw7yNsgKhMQ7DmDhzVhX",
+      "size":"2PACX-1vTNYErJCIGiL_ntV-jHDgzHPa4NJhh_YlOwyfLYyJDR8363TOYi3jwktssUpzOicdOObmUEiOtQYuzh"
 }
 ]
